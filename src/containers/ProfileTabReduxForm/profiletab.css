@@ -1,0 +1,37 @@
+.profile-tab-section {
+  background-color: #ffffff;
+}
+
+.profile-tab-section-grid {
+  margin: auto !important;
+}
+
+.profile-tab-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2) !important;
+  transition: 0.3s !important;
+}
+
+.profile-tab-card-title {
+  line-height: 30px !important;
+}
+
+.bordered-column {
+  border: 1px solid rgba(34,36,38,.15) !important;
+  border-radius: .28571429rem !important;
+}
+
+.profile-tab-card img {
+  max-width: 250px !important;
+  max-height: 250px !important;
+}
+
+.buttoncolor-passport {
+  background-color: #545972;
+  color: #ffffff;
+}
+
+.passport-file-name {
+  color:darkturquoise;
+  text-decoration: underline;
+  cursor: pointer;
+}
